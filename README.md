@@ -11,7 +11,7 @@ I have been making video games for the past 8 years (you can find some of my pro
 - Music
 - Marketing
 
-So far, my experience has mostly been in fan-game communities; however, I am currently working on an original game (playable prototype hopefully coming sometime early summer).
+So far, my experience has mostly been in fan-game communities; however, I am currently working on an original game (playable demo hopefully coming sometime this year).
 If you want to support me, you can buy me a Ko-Fi here:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N81WT3HX)
