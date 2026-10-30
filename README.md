@@ -8,7 +8,6 @@ I have been making video games for the past 8 years (you can find some of my pro
 - Programming
 - Game Design
 - Art & Animation
-- Music
 - Marketing
 
 So far, my experience has mostly been in fan-game communities; however, I am currently working on an original game (playable demo hopefully coming sometime this year).
